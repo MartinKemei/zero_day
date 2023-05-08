@@ -1,3 +1,3 @@
 ## 1. Hello Ubuntu
 # advanced
-uname
+man uname
